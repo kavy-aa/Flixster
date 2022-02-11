@@ -28,7 +28,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-I had difficulties with the implementation of asynvhttpclient. The library wasn't syncing and so I had to spend about an hour trying to figure it out. Other than that the only difficulty I had was trying to push my project into github.
+I had difficulties with the implementation of AsyncHttpClient. The library wasn't syncing and so I had to spend about an hour trying to figure it out. Other than that the only difficulty I had was trying to push the project into github.
 
 ### Open-source libraries used
 
